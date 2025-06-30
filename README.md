@@ -408,7 +408,7 @@ copies or substantial portions of the Software.
 
 Want to try MediAgent right now? 
 
-1. Visit the [live demo](https://mediagent-demo.netlify.app)
+1. Visit the [live demo](https://mediagent.netlify.app)
 2. Click "Try Demo Mode" 
 3. Start recording or upload an audio file
 4. Watch AI generate a complete medical report!
